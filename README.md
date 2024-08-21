@@ -6,6 +6,6 @@
 ### Chapter
 | Chapter | Name |
 | :--- | ---- | 
-| 1    | [Check Transformer Architecture]()  |
+| 1    | [Check Transformer Architecture](https://github.com/JYKai/LLM/tree/main/chapter_01)  |
 | 2    |  |
 | 3    |  |
