@@ -7,5 +7,5 @@
 | Chapter | Name | Contents  |
 | :--- | ---- | ---- | 
 | 1    | [Check Transformer Architecture](https://github.com/JYKai/LLM/tree/main/chapter_01)  | Check Encoder, Decoder Structures  |
-| 2    |  | |
+| 2    | [Huggingface]() | Use huggingface library |
 | 3    |  | |
